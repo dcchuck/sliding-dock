@@ -1,0 +1,28 @@
+{
+    "startup_app": {
+        "name": "BasicTemplate",
+        "description": "A basic OpenFin template",
+        "url": "http://localhost:3000/main.html",
+        "uuid": "basictemplateEditMe",
+        "autoShow": true,
+        "frame": false,
+        "defaultHeight": 866,
+        "defaultWidth": 250,
+        "saveWindowState": false,
+        "smallWindow": true,
+        "alphaMask": {
+            "red": 200,
+            "green": 200,
+            "blue": 200
+        }
+    },
+    "runtime": {
+        "arguments": "--disable-gpu",
+        "version": "stable"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "A simple OpenFin template for Local Dev",
+        "name": "BasicTemplate"
+    }
+}

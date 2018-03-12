@@ -1,0 +1,24 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "OpenfinPOC",
+        "description": "OpenFin POC",
+        "url": "http://localhost:3000/transparent.html",
+        "uuid": "OpenfinPOC-dp4k91zlw12g6d41nei13v7vi",
+        "autoShow": true,
+        "alphaMask": {
+            "red": 200,
+            "green": 200,
+            "blue": 200
+        }
+    },
+    "runtime": {
+        "arguments": "--disable-gpu",
+        "version": "beta"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin POC",
+        "name": "Openfin POC"
+    }
+}
